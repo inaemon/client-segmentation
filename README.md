@@ -1,18 +1,18 @@
 # Step1. Data exploration (Using EDA)
 - Exploration of the 'client-segregation' dataset
-- Selection of feature group to be used for classification
+- Selection of feature group to be used for classification.
 
 https://engineer-inaemon.tistory.com/105
 
 # Step2. Customer Segmentation Project
-The final project conducted in the machine learning study Group of the data analysis society
+The final project conducted in the machine learning study Group of the data analysis society.
 - KNN, Hyunmin Kim
 - Multiple Logistic Regression, Inae Park
 - Random Forest, Hyewon Yang
 - k-means, Soyoung Jung
 - Decision Tree, Hyojeong Je
 
-Only the machine learning algorithm I conducted among the above will be uploaded.
+I have only uploaded the algorithm that I have worked on.
  
 https://engineer-inaemon.tistory.com/107
 
